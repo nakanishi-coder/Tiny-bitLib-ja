@@ -1,1 +1,37 @@
+{
 
+  "Tinybit.Ultrasonic_Car|block": "超音波センサー（cm）",
+  "Tinybit.Ultrasonic_CarV2|block": "microbit|V2|超音波センサー（cm）",
+  "Tinybit.RGB_Car_Program|block": "LED色",
+  "Tinybit.RGB_Car_Big|block": "ヘッドライト色 %value",
+  "Tinybit.RGB_Car_Big2|block": "ヘッドライト色RGB|赤 %value1|緑 %value2|青 %value3",
+  "Tinybit.Music_Car|block": "音楽|%index",
+  "Tinybit.Voice_Sensor|block": "音センサー",
+  "Tinybit.Line_Sensor|block": "ラインセンサー|位置 %direct|計測値 %value",
+  "Tinybit.CarCtrl|block": "制御|%index",
+  "Tinybit.CarCtrlSpeed|block": "制御&速度|%index|速度 %speed",
+  "Tinybit.CarCtrlSpeed2|block": "制御&速度2|%index|左速度 %speed1|右速度 %speed2",
+  "Tinybit.enColor.OFF|block": "黒",
+  "Tinybit.enColor.Red|block": "赤",
+  "Tinybit.enColor.Green|block": "緑",
+  "Tinybit.enColor.Blue|block": "青",
+  "Tinybit.enColor.White|block": "白",
+  "Tinybit.enColor.Cyan|block": "青",
+  "Tinybit.enColor.Pinkish|block": "ピンク",
+  "Tinybit.enColor.Yellow|block": "黄",
+  
+  "Tinybit.enPos.LeftState|block": "左側",
+  "Tinybit.enPos.RightState|block": "右側",
+  "Tinybit.enLineState.White|block": "白線",
+  "Tinybit.enLineState.Black|block": "黒線",
+  
+  "Tinybit.CarState.Car_Run|block": "前進",
+  "Tinybit.CarState.Car_Back|block": "後退",
+  "Tinybit.CarState.Car_Left|block": "左前進",
+  "Tinybit.CarState.Car_Right|block": "右前進",
+  "Tinybit.CarState.Car_Stop|block": "停止",
+  "Tinybit.CarState.Car_SpinLeft|block": "左旋回",
+  "Tinybit.CarState.Car_SpinRight|block": "右旋回",
+  
+  "Tinybit.car_sport|block":"モーター|左側 %sp_L|右側 %sp_R"
+}
